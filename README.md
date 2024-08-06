@@ -4,7 +4,7 @@
 
 The purpose of this test is to create simple game logic based on the detailed specifications and prove its correctness.
 
-We realise that everyone has different levels of skill and experience when it comes to development, so we have split the test into multiple tasks. If you do not have the knowledge to complete all questions, that's okay. We want to see how you approach the problem and get a feel for how you code. This also gives you an opportunity to present yourself at your best while working in the comfort of your home.
+We realise that everyone has different levels of skill and experience when it comes to development, so we have split the test into multiple tasks. It's okay if you don't manage to complete all the questions. We want to see how you approach the problem and get a feel for how you code. This also gives you an opportunity to present yourself at your best while working in the comfort of your home.
 
 The test itself emulates the basic flow of applications we develop on a daily basis.
 
