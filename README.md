@@ -70,7 +70,7 @@ cd Client && mvn test
 1. Find and familiarize yourself with the Server, Client, and unit tests source files. Hint: The `test` is structured as a simple client-server application. The server is responsible for performing logic and generating responses to client requests. The client sends requests and contains a test suite which is used to validate given behaviours.
 2. Add a `table` client request and implement a server response that returns a randomly chosen `Value` from `BasicWeightTable` based on the percentage `Chance`. Hint: For this step, ignore data in the `99% confidence level` column.
 3. Implement a statistical test (or tests) which would run multiple `table` requests and check aggregated responses against the expected occurrences defined in `BasicWeightTable`. Hint: How many times do you think `Value: £3.00` will be returned from the server? For this step, you can use the `100k runs error margin` value to compare the results with 99% confidence and check if your implementation is correct. How do you interpret `error margin`?
-4. It might help to improve the communication protocol by switching to some marshallable (via an existing library) data format e.g. JSON or another one you're comfortable with. Following tasks will require some data analysis of the comms. Make sure to update your tests accordingly.
+4. Following tasks will require some data analysis of the comms. It might help to improve the communication protocol by switching to some marshallable (easiest via an existing library) data format e.g. JSON or another one you're comfortable with. Make sure to update your tests accordingly.
 
 #### More Interesting Tasks
 
