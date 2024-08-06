@@ -21,7 +21,6 @@ If you have any questions, please feel free to get in touch with your point of c
 ## Review Criteria 
 
 * Understanding of tasks
-* Ability to follow instructions
 * Correct implementation
 * Code organisation and clarity 
 * Unit tests usage and results
@@ -43,7 +42,7 @@ Please note that we will have to return all submissions that:
 
 ## Notes
 
-* Don't spend more than 4 hours on this test.
+* Regardless of your progress, do not spend more than 4 hours on this test.
 * If you've added anything you particulary like or consider noteworthy, make sure to point it out to us.
 
 ### Setup and Details
